@@ -56,4 +56,4 @@ while True:
 打包小程序
 $ py2applet --make-setup MyApplication.py
 
-
+"""
