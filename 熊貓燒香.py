@@ -50,3 +50,10 @@ while True:
         d=str(random.randint(0,screen_height))
         i.geometry(f'+{c}+{d}')# 设置窗口位置
         i.update()
+        
+        
+ """
+打包小程序
+$ py2applet --make-setup MyApplication.py
+
+
